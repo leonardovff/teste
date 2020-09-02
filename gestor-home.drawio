@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T20:53:27.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="auO7JPn7XnKYnvww4518" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T20:59:27.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="MKHn7_oafCSAZFqtoPLh" version="13.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="950" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="xRk32n43s2WGwWvrwPpY-38" value="GESTOR" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="49.5" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="xRk32n43s2WGwWvrwPpY-43" value="&lt;font color=&quot;#ff6666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;TODO&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Compartilhado?&lt;br&gt;ArrangementManagementDashboard?&lt;br&gt;Box-generic compartilhado?&lt;br&gt;Mock compartilhado?&lt;br&gt;HomeDocumentsComponent compartilhado?&lt;br&gt;HomeMessagesComponent compartilhado?&lt;br&gt;MessagesService compartilhado?&lt;br&gt;DocumentsService&amp;nbsp;compartilhado?" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="-320" width="310" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xRk32n43s2WGwWvrwPpY-44" value="«Component»&lt;br&gt;&lt;b&gt;BoxGenericComponent&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="730" width="180" height="90" as="geometry" />
